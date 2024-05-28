@@ -48,7 +48,7 @@ Follow these steps to get started with the project:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/paytm-wallet-clone.git
+    git clone https://github.com/hrishi0102/bank-transfer-simple.git
     cd paytm-wallet-clone
     ```
 
