@@ -77,13 +77,13 @@ Follow these steps to get started with the project:
     **Backend:**
     ```sh
     cd backend
-    npm start
+    node index.js
     ```
 
     **Frontend:**
     ```sh
     cd ../frontend
-    npm start
+    npm run dev
     ```
 
 6. Open your browser and navigate to `http://localhost:3000` to view the application.
